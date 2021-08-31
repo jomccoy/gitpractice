@@ -11,6 +11,8 @@ import numpy as np
 #Hello World
 #print("The initials of the name is:  " + first_name[0] + '&' + last_name[0])
 
-results = divmod(5,2)
+#results = divmod(5,2)
 
-print(results[0])
+#print(results[0])
+
+print (2**4)
