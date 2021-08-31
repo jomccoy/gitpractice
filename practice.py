@@ -1,6 +1,16 @@
 import numpy as np
-np.sum(2+4)
 
+#mynumber = np.sum(2+2)
 
-first_name = input("enter your name: ")
-print(first_name)
+#print(mynumber)
+
+#first_name = input("Enter Your First Name: ")
+#last_name = input("Enter Your Last Name:  ")
+
+###print("Your Name is: " + first_name + ' ' + last_name)
+#Hello World
+#print("The initials of the name is:  " + first_name[0] + '&' + last_name[0])
+
+results = divmod(5,2)
+
+print(results[0])
